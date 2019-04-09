@@ -1,0 +1,2 @@
+# font-prune
+fontmin
